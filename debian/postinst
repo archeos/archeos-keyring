@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+if [ -x /usr/bin/apt-key ]; then
+    # "apt-key update" only uses /usr/share/keyrings/debian-archive-*.gpg, so we use "apt-key add"
+    apt-key add /usr/share/keyrings/archeos-keyring.gpg
+fi

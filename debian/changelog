@@ -1,0 +1,11 @@
+archeos-keyring (0.2) theodoric; urgency=medium
+
+  * First modifications. (Closes: nothing)
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Thu, 16 Jan 2014 09:49:31 +0100
+
+archeos-keyring (0.1) theodoric; urgency=low
+
+  * Initial release. (Closes: nothing)
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Thu, 16 Jan 2014 09:49:20 +0100
