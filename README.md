@@ -1,6 +1,7 @@
 README for the archeos-keyring
 ==============================
 
+![build-status](http://build.archeos.eu/badge.png?builder=archeos-keyring-slave1)
 
 Introduction
 ------------
