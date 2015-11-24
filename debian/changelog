@@ -1,3 +1,9 @@
+archeos-keyring (6.0) archeos-next; urgency=medium
+
+  * new version
+
+ -- Fabrizio Furnari <fab.furnari@gmail.com>  Tue, 24 Nov 2015 13:04:45 +0100
+
 archeos-keyring (5.0) theodoric; urgency=medium
 
   * minor modifications
